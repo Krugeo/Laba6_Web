@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Laba6_Web/static/css/main.e6c13ad2.css",
+    "main.js": "/Laba6_Web/static/js/main.9d2d0890.js",
+    "static/js/453.c6d60233.chunk.js": "/Laba6_Web/static/js/453.c6d60233.chunk.js",
+    "index.html": "/Laba6_Web/index.html",
+    "main.e6c13ad2.css.map": "/Laba6_Web/static/css/main.e6c13ad2.css.map",
+    "main.9d2d0890.js.map": "/Laba6_Web/static/js/main.9d2d0890.js.map",
+    "453.c6d60233.chunk.js.map": "/Laba6_Web/static/js/453.c6d60233.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9d2d0890.js"
+  ]
+}
